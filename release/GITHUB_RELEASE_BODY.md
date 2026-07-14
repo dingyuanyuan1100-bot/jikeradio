@@ -1,8 +1,8 @@
-# Mineradio v1.1.1
+# Jikeradio v1.1.1
 
 界面展示名：`Jike radio`
 
-Mineradio 是一款 Windows 端可视化动态壁纸音乐播放器，主打多平台音乐账号互通、桌面歌词和视频动态壁纸联动。它不只是播放器，也是一座视觉舞台。
+Jikeradio 是一款 Windows 端可视化动态壁纸音乐播放器，主打多平台音乐账号互通、桌面歌词和视频动态壁纸联动。它不只是播放器，也是一座视觉舞台。
 
 ![启动欢迎页](./images/welcome.png)
 
