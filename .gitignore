@@ -1,0 +1,26 @@
+node_modules/
+.git.broken-backup-20260715/
+
+# packaged runtime output
+Mineradio.exe
+*.dll
+*.pak
+*.bin
+*.dat
+vk_swiftshader_icd.json
+locales/
+resources.pak
+uninstallerIcon.ico
+
+# app dependencies and transient data
+resources/app/node_modules/
+resources/app/.kg-cookie
+resources/app/.kg-session.json
+
+# local clutter
+.agents/
+壁纸文件夹/
+新建文件夹/
+*.log
+.DS_Store
+Thumbs.db
