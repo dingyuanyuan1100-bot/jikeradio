@@ -2,7 +2,7 @@
   "name": "mineradio",
   "productName": "Jikeradio",
   "version": "1.1.1",
-  "description": "娌夋蹈寮忛煶涔愭挱鏀惧櫒锛岃瀺鍚堝ぉ姘旂數鍙般€佹瓕璇嶈垶鍙般€佺矑瀛愯瑙夊拰 3D 姝屽崟鏋躲€?,
+  "description": "Immersive music player",
   "author": "Jikeradio",
   "main": "desktop/main.js",
   "private": true,
